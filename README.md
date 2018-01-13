@@ -1,6 +1,8 @@
 # Your First Ruby Gem of Many
 
-Reticulates splines.
+Reticulates splines. [Live-coded](LIVE.md) at Flatiron School.
+
+[![Build Status](https://travis-ci.org/dblock/frgom-prep.svg?branch=master)](https://travis-ci.org/dblock/frgom-prep)
 
 ## Install
 

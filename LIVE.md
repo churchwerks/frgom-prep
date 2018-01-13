@@ -241,12 +241,16 @@ task default: [:spec]
 Add _.travis.yml_, register the project on [travis-ci.org](https://travis-ci.org/) and add a badge.
 
 ```
+language: ruby
+
+cache: bundler
+
 rvm:
   - 2.4.1
 ```
 
 ```
-[![Build Status](https://travis-ci.org/dblock/frgom.png)](https://travis-ci.org/dblock/gf)
+[![Build Status](https://travis-ci.org/dblock/frgom.png)](https://travis-ci.org/dblock/frgom)
 ```
 
 #### Library Code
